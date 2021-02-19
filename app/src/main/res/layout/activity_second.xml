@@ -11,9 +11,9 @@
         android:layout_height="wrap_content"
         android:text="TextView"
         android:textSize="55dp"
-        app
 
-        tools:ignore="SpUsage" />
+
+         />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
